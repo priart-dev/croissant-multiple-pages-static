@@ -1,0 +1,14 @@
+body {
+    background-color: tan;
+    font-family: monospace;
+    font-size: large;
+}
+
+nav {
+    display: flex;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: center;
+}
